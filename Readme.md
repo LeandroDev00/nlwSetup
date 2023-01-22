@@ -1,27 +1,49 @@
-   OLÁ , Me Chamo LEANDRO
+<h1 align="center"> Habits </h1>
 
-    👨‍💼 - Sou apaixonado por Tecnologia, Jogos, café ☕  e entender linhas de código.
-    
-    🎓 - Curso o 5° Semetre de Análise e Desenvolvimento de Sistemas - Unimetrocamp.
-    
-    🎓 - Estou me dedicando a aprender Lógica de Programação, Banco de dados, Estrutura de dados, HTML, CSS, Java Script e FrameWorks(ReactJs, Angular, flutter).
+<p align="center">
+NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+</p>
 
-    👀 - Busco me tornar um Software Developer.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-    💼 - Estou aberto a Oportunidades na área de Desenvolvedor Front-End, Back-End, Estágios, entre outras áreas da Programação.
-    🎓 Me dedico a estudar Lógica de Programação, Banco de dados, Estrutura
-       de dados e FrameWorks(ReactJs).
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-    👀 Desejo me tornar um Desenvolvedor fullstack de software.
+<br>
 
-    💼  Estou aberto a Oportunidades na área de Desenvolvimento em Front-End e Back-End Jr.
+<p align="center">
+  <img alt="projeto Habits" src=".github/Cover.jpg" width="100%">
+</p>
 
-    📫 - Pode me encontrar pelo meu Linkedin: www.linkedin.com/in/leandro-lemos00
+## 🚀 Tecnologias
 
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-    
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
 
-<!---
-LeandroDev00/LeandroDev00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Projeto
+
+O Habits é um app para ajudar a rastrear os hábitos.
+
+- [Visite o projeto online]
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
